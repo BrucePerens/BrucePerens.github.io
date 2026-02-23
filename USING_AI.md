@@ -1,8 +1,9 @@
---
+---
 title: "What People Should Know About AI"
 author: "Bruce Perens <bruce@perens.com> +1 510-4PERENS"
 date: "2026-02-23"
 ---
+
 # What People Should Know About AI
 - Bruce Perens <bruce@perens.com> +1 510-4PERENS.
 
